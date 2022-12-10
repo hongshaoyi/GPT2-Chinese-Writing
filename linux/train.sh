@@ -17,4 +17,4 @@ python3 $work_dir/scripts/train.py \
 	--log_step=1 \
 	--stride=128 \
 	--gradient_accumulation=1 \
-	--pretrained_model='trained_model/final_model/'
+#	--pretrained_model='trained_model/final_model/'
